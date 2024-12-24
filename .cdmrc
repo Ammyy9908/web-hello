@@ -1,0 +1,11 @@
+# terminals
+terminals:
+    [
+        'echo "Hello, World!"',
+        'echo "Hello, World!"',
+        'echo "Hello, World!"',
+        'echo "Hello, World!"',
+        'echo "Hello, World!"',
+    ]
+# other config
+tabs: ['index.html']
